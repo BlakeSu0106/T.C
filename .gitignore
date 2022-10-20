@@ -1,0 +1,14 @@
+.vs/
+
+src/modules/Telligent.Core.Infrastructure/obj/
+src/modules/Telligent.Core.Infrastructure/bin/
+
+src/modules/Telligent.Core.Domain/obj/
+src/modules/Telligent.Core.Domain/bin/
+
+src/modules/Telligent.Core.Application/obj/
+src/modules/Telligent.Core.Application/bin/
+
+src/applications/Telligent.Core.VersionGenerator/bin/
+
+src/applications/Telligent.Core.VersionGenerator/obj/
